@@ -1,0 +1,17 @@
+{
+    "name": "agilesdesign/myrtle-core-theme-front-beach",
+    "description": "Core Front Theme for Myrtle WMS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Seliga",
+            "email": "jseliga@agilesdesign.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Myrtle\\Core\\Themes\\Front\\Beach\\Theme\\": "src/Theme"
+        }
+    }
+}
